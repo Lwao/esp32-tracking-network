@@ -1,0 +1,32 @@
+experiment 1:
+
+d   : 150      cm
+ref0: (75,65)  cm
+ref1: (0,0)    cm
+ref2: (150,0)  cm
+ref3: (75,130) cm
+
+
+experiment 2:
+
+d   : 150      cm
+ref0: (0,0)  cm
+ref1: (0,0)    cm
+ref2: (150,0)  cm
+ref3: (75,130) cm
+
+experiment 3:
+
+d   : 150      cm
+ref0: (150,0)  cm
+ref1: (0,0)    cm
+ref2: (150,0)  cm
+ref3: (75,130) cm
+
+experiment 4:
+
+d   : 150      cm
+ref0: (75,130)  cm
+ref1: (0,0)    cm
+ref2: (150,0)  cm
+ref3: (75,130) cm

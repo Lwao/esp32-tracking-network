@@ -1,0 +1,8 @@
+The ARDUINO folder contains the source code for each ESP32 node, therefore the movable node MVB_ND_1 and each one of the three fixed nodes FXD_ND_X. Internally in FXD_ND_X.ino the user must change variables when compiling to each k node, with k={1,2,3}.
+
+
+The MATLAB folder contains the routine used for calibration and the calibration log used.
+
+The PYTHON folder contains the code to run the Python server and the .txt/.csv outputs for each section.
+
+In this main folder also there is a paper_final.pdf file explaning all the details of the project and results. Also there is a video working_system.mp4 that illustrates graphically how the system behaves.
